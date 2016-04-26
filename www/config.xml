@@ -4,7 +4,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id          = "com.gamingplatform.carrom"
-        versionCode = "1"
+        versionCode = "21"
         version     = "1.0.1" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
