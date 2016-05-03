@@ -3,9 +3,9 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
-        id          = "com.gamingplatform.carrom"
-        versionCode = "1"
-        version     = "1.0.0" >
+        id          = "com.gamingplatform.carromgame"
+        versionCode = "22"
+        version     = "1.0.2" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
       see: http://developer.android.com/tools/publishing/versioning.html
@@ -146,6 +146,6 @@
 
     <!-- https://github.com/EddyVerbruggen/Custom-URL-scheme -->
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" spec="4.0.0" >
-      <param name="URL_SCHEME" value="carrom" />
+      <param name="URL_SCHEME" value="carromgame" />
     </gap:plugin>
 </widget>
